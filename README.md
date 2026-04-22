@@ -6,7 +6,7 @@
 
 ## 🛠 Стек технологий
 
-- **Core:** [React 18](https://reactjs.org)
+- **Core:** [React 19](https://reactjs.org)
 - **Type System:** [TypeScript](https://typescriptlang.org)
 - **State Management:** [Redux Toolkit](https://js.org)
 - **Build Tool:** [Vite](https://vitejs.dev)
