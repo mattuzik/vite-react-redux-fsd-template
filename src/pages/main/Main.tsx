@@ -1,4 +1,4 @@
-import CounterCard from "@/widgets/counter-card/ui";
+import CounterCard from "@/widgets/counter-card";
 import styles from './Main.module.scss'
 
 const Main = () => {
